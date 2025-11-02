@@ -1,0 +1,3 @@
+C:/Users/wikto/source/repos/lab-1-Wiktorlag/out/build/x64-Debug/CMakeFiles/zal.dir
+C:/Users/wikto/source/repos/lab-1-Wiktorlag/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/wikto/source/repos/lab-1-Wiktorlag/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
